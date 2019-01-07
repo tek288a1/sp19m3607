@@ -1,0 +1,6 @@
+*.aux* 
+*.tex* 
+*.gz* 
+*.log*
+*.m
+*.ipynb_checkpoints*
